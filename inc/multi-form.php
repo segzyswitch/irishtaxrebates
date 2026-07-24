@@ -1245,8 +1245,7 @@ $itr_rf_submit_url = '/multiformsubmit/';
         .then(data => {
           showPage(5);
           $("#itrrf-success-panel").hidden = false;
-          $("#itrrf-success-panel").innerHTML =
-            data || "Submitted successfully.";
+          $("#itrrf-success-panel").innerHTML = "<h2>Thanks — your application is on its way!</h2><p>We've received your details and will be in touch shortly to confirm your rebate.</p>";
           console.log(data)
         })
         .catch(error => {
