@@ -50,7 +50,7 @@ if (isset($data["signature"])) {
   $imageData = base64_decode($base64);
 
   if ($imageData !== false) {
-    $uploadDirectory = __DIR__ . "/public/";
+    $uploadDirectory = __DIR__ . "../public/";
     if (!is_dir($uploadDirectory)) {
       mkdir($uploadDirectory, 0777, true);
     }
