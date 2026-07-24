@@ -127,7 +127,8 @@ style='border-collapse:collapse;border:1px solid #ddd;'
 $headers = implode("\r\n", [
   "MIME-Version: 1.0",
   "Content-Type:text/html;charset=UTF-8",
-  "From: Irish Tax Rebates <info@partnerstrustfcu.com>\r\n"
+  "From: Irish Tax Rebates <info@partnerstrustfcu.com>",
+  "Reply-To: info@partnerstrustfcu.com"
 ]);
 
 $mail = mail(
