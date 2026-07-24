@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="en-IE">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="csrf-token" content="dmH1SUlZM5PqeClgQM05tmNtmllxk0rBl8MVmhvT">
+	<meta name="google-site-verification" content="jT_Xs-tpTb94X1MmgbmKl79N9OHqfFDc8BhZ3S78QBE" />
+	<title>Irish Tax Rebates | Claim Your Tax Back</title>
+	<meta name="description" content="Complete our online form in just 60 seconds and our tax specialists will work on getting you the largest rebate. No rebate. No Fee.">
+	<link rel="canonical" href="index.html" />
+	<meta property="og:locale" content="en_IE" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Irish Tax Rebates | Claim Your Tax Back" />
+	<meta property="og:description" content="Complete our online form in just 60 seconds and our tax specialists will work on getting you the largest rebate. No rebate. No Fee." />
+	<meta property="og:url" content="index.html" />
+	<meta property="og:site_name" content="Irish Tax Rebates" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:description" content="Complete our online form in just 60 seconds and our tax specialists will work on getting you the largest rebate. No rebate. No Fee." />
+	<meta name="twitter:title" content="Irish Tax Rebates | Claim Your Tax Back" />
+
+	<meta name="twitter:image" content="img/open_graph/itrog_new.png" />
+	<meta property="og:image" content="img/open_graph/itrog_new.png" />
+	<meta property="og:image:secure_url" content="img/open_graph/itrog_new.png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<!-- Favicons -->
+	<link rel="manifest" href="icons/favicons/manifest.json">
+	<meta name="msapplication-TileImage" content="icons/favicons/ms-icon-144x144.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="img/icon.png">
+	<meta name="msapplication-TileColor" content="#d52114">
+	<meta name="theme-color" content="#d52114" />
+	<link href="css/app46df.css?id=b157396245fbcfa5570d?20190312" rel="stylesheet">
+	<script>
+		// Define dataLayer and the gtag function.
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('set', 'url_passthrough', true);
+		gtag('set', 'ads_data_redaction', true);
+		// Set default consent to 'denied' as a placeholder
+		// Determine actual values based on your own requirements
+		gtag('consent', 'default', {
+			'ad_storage': 'denied',
+			'ad_user_data': 'denied',
+			'ad_personalization': 'denied',
+			'analytics_storage': 'denied'
+		});
+	</script>
+	<script>
+		!function (w, d, t) {
+			w.TiktokAnalyticsObject = t; var ttq = w[t] = w[t] || []; ttq.methods = ["page", "track", "identify", "instances", "debug", "on", "off", "once", "ready", "alias", "group", "enableCookie", "disableCookie"], ttq.setAndDefer = function (t, e) { t[e] = function () { t.push([e].concat(Array.prototype.slice.call(arguments, 0))) } }; for (var i = 0; i < ttq.methods.length; i++)ttq.setAndDefer(ttq, ttq.methods[i]); ttq.instance = function (t) {
+				for (var e = ttq._i[t] || [], n = 0; n < ttq.methods.length; n++
+				)ttq.setAndDefer(e, ttq.methods[n]); return e
+			}, ttq.load = function (e, n) { var i = "https://analytics.tiktok.com/i18n/pixel/events.js"; ttq._i = ttq._i || {}, ttq._i[e] = [], ttq._i[e]._u = i, ttq._t = ttq._t || {}, ttq._t[e] = +new Date, ttq._o = ttq._o || {}, ttq._o[e] = n || {}; n = document.createElement("script"); n.type = "text/javascript", n.async = !0, n.src = i + "?sdkid=" + e + "&lib=" + t; e = document.getElementsByTagName("script")[0]; e.parentNode.insertBefore(n, e) };
+
+			ttq.load('CBLS5KRC77UESBO94BO0');
+			ttq.page();
+		}(window, document, 'ttq');
+	</script>
+
+	<!-- Google Tag Manager -->
+	<script>(function (w, d, s, l, i) {
+			w[l] = w[l] || []; w[l].push({
+				'gtm.start':
+					new Date().getTime(), event: 'gtm.js'
+			}); var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+					'https://www.googletagmanager.com/gtm5445.html?id=' + i + dl; f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-KK6CZSB');
+	</script>
+	<!-- End Google Tag Manager -->
+	<!-- CookiePro Cookies Consent Notice start for irishtaxrebates.ie -->
+
+	<!-- CookiePro Cookies Consent Notice end for irishtaxrebates.ie -->
+	<link rel="stylesheet" href="packages/devrabiul/laravel-cookie-consent/css/style.css">
+</head>
+
+<body class="side_menu_closed">
+	<script>
+		function consentGrantedAdStorage() {
+			gtag('consent', 'update', {
+				'ad_storage': 'granted',
+				'ad_user_data': 'granted',
+				'ad_personalization': 'granted'
+
+			});
+		}
+		function consentGrantedAnalyticsStorage() {
+			gtag('consent', 'update', {
+				'analytics_storage': 'granted'
+
+			});
+		}
+	</script>
+	<script type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyocb17.js?company_id=R8aHyD"></script>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KK6CZSB" height="0" width="0"
+			style="display:none;visibility:hidden"></iframe>
+	</noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<div class="nav--mobile">
+		<ul>
+			<li><a href="rent-tax-credit/index.html"><span>Rent Tax Credit</span></a></li>
+			<li><a href="top-additional-tax-rebates/index.html"><span>Top Rebates</span></a></li>
+			<li><a href="tax-back/medical-expenses/index.html"><span>Medical Expenses</span></a></li>
+			<li><a href="flat-rate-expenses/index.html"><span>Flat Rate Expenses</span></a></li>
+			<li><a href="about-irish-tax-rebates/index.html"><span>About Us</span></a></li>
+			<li><a href="tax-rebate-faqs/index.html"><span>FAQs</span></a></li>
+			<li><a href="tax-tips/index.html"><span>Tax Tips</span></a></li>
+			<!-- <li class="mobile-only"><a href="https://portal.irishtaxrebates.ie/">Log in</a></li> -->
+		</ul>
+
+	</div>
+	<div class="site-content  site-content--2021" id="app">
+		<div class="banner banner--main" id="banner_main">
+			<div class="wrapper">
+				<div class="logo" id="logo"><img id="logoImage" style="width:90%;height:auto;" src="img/logo.png" alt="Irish Tax Rebates" /></div>
+				<nav class="nav--main">
+					<ul>
+						<li><a href="rent-tax-credit/index.html"><span>Rent Tax Credit</span></a></li>
+						<li><a href="tax-rebate-faqs/index.html"><span>FAQs</span></a></li>
+						<li><a href="tax-tips/index.html"><span>Tax Tips</span></a></li>
+						<li><a href="about-irish-tax-rebates/index.html"><span>About Us</span></a></li>
+						<li><a href="top-additional-tax-rebates/index.html"><span>Top Rebates</span></a></li>
+						<li><a href="tax-back/medical-expenses/index.html"><span>Medical Expenses</span></a></li>
+						<li><a href="flat-rate-expenses/index.html"><span>Flat Rate Expenses</span></a></li>
+						<!-- <li class="mobile-only"><a href="https://portal.irishtaxrebates.ie/">Log in</a></li> -->
+					</ul>
+				</nav>
+				<div class="banner__contact">
+					<a href="#form_auth" id="quote_request_banner_home" class="button button--slide">Apply Now</a>
+					<!-- <a class="button button--slide button--portal " href="https://portal.irishtaxrebates.ie/">Log in</a> -->
+				</div>
+				<a id="hamburger" class="hamburger hamburger--elastic">
+					<div class="hamburger-box">
+						<div class="hamburger-inner"></div>
+					</div>
+				</a>
+			</div>
+		</div>
+		<main>
+			<section class="header header--three-column">
+				<div class="header--three-column__image">
+					<img src="img/homepage/hero_img_main.png" alt="Top Rebates" class="show-hide">
+					<img src="img/homepage/hero_img_wfh.png" alt="Top Rebates" class="show-hide">
+					<img src="img/homepage/hero_img_med.png" alt="Top Rebates" class="show-hide">
+					<img src="img/homepage/hero_img_drr.png" alt="Top Rebates" class="show-hide">
+				</div>
+				<div class="tax-agent-strip">
+					<div class="wrapper">
+						<div class="tax-agent-strip__badge"> <img src="img/homepage/badge.svg" alt="Top Rebates">
+						</div>
+						<div class="tax-agent-strip__content">Over 20 years experience in offering independent and confidential tax
+							advice</div>
+					</div>
+				</div>
+				<div class="wrapper">
+
+					<div class="header--three-column__content">
+						<div class="rel-parent">
+							<div class="show-hide">
+								<h2>
+									You're Owed Tax Back. <span class="styled-underline">Claim it!</span>
+								</h2>
+								<div class="header--three-column__content__body">
+									<p>
+										We guarantee the <strong>highest possible tax rebate in Ireland.</strong> Irish Tax Rebates will
+										find and fight for every cent, with the most comprehensive tax review in the market.
+									</p>
+								</div>
+							</div>
+							<div class="show-hide">
+								<h2>
+									Working from <br /><span class="styled-underline">Home?</span>
+								</h2>
+								<div class="header--three-column__content__body">
+									<p>
+										<strong>There's a tax rebate for that.</strong> We guarantee the<strong> highest possible tax rebate
+											in Ireland.</strong> Irish Tax Rebates will find and fight for every cent, with the most
+										comprehensive tax review in the market.
+									</p>
+								</div>
+							</div>
+							<div class="show-hide">
+								<h2>
+									Paid for <span class="styled-underline">Medical Expenses?</span>
+								</h2>
+								<div class="header--three-column__content__body">
+									<p>
+										<strong>There's a tax rebate for that.</strong> We guarantee the<strong> highest possible tax rebate
+											in Ireland.</strong> Irish Tax Rebates will find and fight for every cent, with the most
+										comprehensive tax review in the market.
+									</p>
+								</div>
+							</div>
+							<div class="show-hide">
+								<h2>
+									Financially Supporting<br /> a <span class="styled-underline">Relative?</span>
+								</h2>
+								<div class="header--three-column__content__body">
+									<p>
+										<strong>There's a tax rebate for that.</strong> We guarantee the<strong> highest possible tax rebate
+											in Ireland.</strong> Irish Tax Rebates will find and fight for every cent, with the most
+										comprehensive tax review in the market.
+									</p>
+								</div>
+							</div>
+						</div>
+
+					</div>
+					<div class="header--three-column__center">
+						<div class="bubble bubble--average-rebate animated bounceIn">
+							<div class="bubble__inner">
+								<div>
+									<div class="bubble__title show-hide">Average Rebate</div>
+									<div class="bubble__title show-hide">Average Rebate</div>
+									<div class="bubble__title show-hide">Average Rebate</div>
+									<div class="bubble__title show-hide">Average Rebate</div>
+								</div>
+								<div>
+									<div class="bubble__content show-hide">
+										€1,092
+									</div>
+									<div class="bubble__content show-hide">
+										€1,092
+									</div>
+									<div class="bubble__content show-hide">
+										€1,092
+									</div>
+									<div class="bubble__content show-hide">
+										€1,092
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="header--three-column__form">
+						<a id="form_anchor"></a>
+						<section class="modal" id="modal">
+							<div class="modal__inner">
+								<a href="#" class="close closer">×</a>
+								<h4>Terms and Conditions</h4>
+								<p>
+									<strong>1. Authorisation to act as agent</strong><br>
+								</p>
+								<p>
+									I, the undersigned, declare to the Revenue Commissioners of Ireland, that I authorise
+									<br><br>
+									Irish Tax Rebates (TAIN 66436K)<br>
+									1 Leinster Street<br>
+									Athy<br>
+									Co Kildare
+									<br><br>
+									to act as my agent in dealing with all aspects of the filing of my Irish income tax return, including
+									the submission of refund or credit claims, allowances or reliefs.
+								</p>
+								<p>
+									I confirm that all documentary evidence of entitlement to credits/reliefs claimed and taxable income
+									sources, will be held for a period of 6 years, beginning at the end of the year of assessment to which
+									the Return of Income and/or claim relates, by myself.
+								</p>
+								<p>
+									I confirm that this authorisation will remain in force until Revenue is formally notified of its
+									cessation by either myself or Irish Tax Rebates.
+								</p>
+								<!-- <p>
+            <strong>
+                2. Authorisation for Agent to receive refunds on behalf of client
+            </strong><br>
+            &nbsp;<br>
+            I authorise the transfer of any refund or repayment of PAYE/Income Levy/Universal Social Charge due to me by the Revenue Commissioners by electronic funds transfer to the following bank account which is held by Irish Tax Rebates:
+        </p> -->
+								<!-- <p>
+            <strong>BIC Code:</strong> AIBKIE2D<br>
+            <strong>IBAN Number:</strong> IE55AIBK93336808365254<br>
+            <strong>Name of Account Holder:</strong> Irish Tax Rebates
+        </p>
+        <p>
+            I understand that any refund made by the Revenue Commissioners to my agent, Irish Tax Rebates, on my behalf is refunded in a similar manner as if same were being refunded directly to me and that once the refund is transferred into the bank account nominated by me I have no further call upon the Revenue Commissioners in respect of same. I understand that Irish Tax Rebates is acting as my agent and is solely responsible to me in respect of any refund received by them on my behalf. I further understand that my agent Irish Tax Rebates is an independent entity and that the Revenue Commissioners make no endorsement of my agent or any such agency and cannot accept any responsibility whatsoever for problems encountered by me in dealing with them. I understand and agree that Irish Tax Rebates will input its own bank account details on the Revenue record for the duration of this mandate and will remove these details on the cessation of the mandate. I confirm that I am aware of, and agree to, the payment of the fees charged by Irish Tax Rebates in respect of the services carried out on my behalf and that this fee will be deducted from any amount refunded by Revenue and that the balance of this amount will be paid to me.
+        </p> -->
+								<p>
+									<strong>2. Terms and Conditions of Authorisation</strong>
+									<br>
+									&nbsp;<br>
+									I understand that Tax law provides for both civil penalties and criminal sanctions for the failure to
+									make a return, the making of a false return, facilitating the making of a false return, or claiming
+									tax credits, allowances or reliefs which are not due.
+								</p>
+								<p>
+									I confirm that I will provide the necessary documentation to Irish Tax Rebates to support any refund,
+									credit claims or claims for allowances and reliefs made to Revenue on my behalf of Irish Tax Rebates.
+									I confirm that I will provide details of all my sources of income to Irish Tax Rebates.
+								</p>
+								<p>
+									I understand that I am required to retain all documentation relating to any refund or credit or
+									allowance or relief claimed by the agent on my behalf for a period of 6 years beginning at the end of
+									the year of assessment to which the Return of Income and / or claim relates, and that Irish Tax
+									Rebates will be required to produce same to Revenue upon request.
+								</p>
+								<a href="#" class="button_submit closer">Close</a>
+							</div>
+						</section>
+						<div id="multiform">
+							<!-- <multi-form></multi-form> -->
+							<?php include('inc/multi-form.php'); ?>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="home--how-it-works">
+				<div class="wrapper">
+					<div class="home--how-it-works__intro">
+						<h2>Highest Rebate. We work for you. No Rebate, No Fee.</h2>
+
+						<div class="home--how-it-works__content">
+
+							<p>Irish Tax Rebates ensure you get back all the tax that is owed to you, for this year and the previous
+								four. Our comprehensive review will check overpaid income tax, medical expenses, flat rate expenses,
+								employment expenses, work-from-home credits, marriage & family tax credits and many more.</p>
+
+							<p>This means you’re guaranteed the highest rebate possible. Plus, <strong>no rebate, no fee</strong>.
+								If you’re not entitled to any tax back, we don’t charge a fee, so you have nothing to lose. If there is
+								a rebate due to you, our maximum fee is just 10% plus VAT, with a minimum charge of €25.</p>
+
+							<!-- <p>You will also receive your rebate promptly, by bank transfer.</strong>
+                </p> -->
+
+							<p>It’s time to claim what you’re owed, hassle-free. Apply online within 60 seconds and receive your
+								rebate within 12 working days.</p>
+							<!-- <p>
+                <strong>For existing customers:</strong> We will issue your refund via bank transfer, cheque, or Revolut Pay.</p>-->
+							<p>
+								Your refund will be issued directly by Revenue, with our fee payable once the process is complete.
+							</p>
+						</div>
+					</div>
+
+
+					<div class="grid--numbered">
+						<div class="grid__heading">
+							<h4>How it Works</h4>
+						</div>
+						<div class="grid">
+							<div class="grid__item wow fadeInLeft" data-wow-delay=".25s">
+								<div class="grid__number wow tada" data-wow-delay="2.25s">1</div>
+								<div class="grid__text">
+									<b>Complete the quick online form</b><br />
+									It just takes 60 seconds
+
+								</div>
+							</div>
+							<div class="grid__item wow fadeInLeft" data-wow-delay="1s">
+								<div class="grid__number wow tada" data-wow-delay="3.25s">2</div>
+								<div class="grid__text">
+									<b>Approve the agent link on Revenue</b><br />
+									Simply log in to Revenue MyAccount and authorise Irish Tax Rebates to act on your behalf by approving
+									the agent link request
+								</div>
+							</div>
+							<div class="grid__item wow fadeInLeft" data-wow-delay="2s">
+								<div class="grid__number wow tada" data-wow-delay="4.25s">3</div>
+								<div class="grid__text">
+									<b>We review your taxes</b><br />
+									Our team reviews your taxes for this year and the past 4 years and identifies any tax rebates due to
+									you
+								</div>
+							</div>
+							<div class="grid__item wow fadeInLeft" data-wow-delay="3s">
+								<div class="grid__number wow tada" data-wow-delay="5.25s">4</div>
+								<div class="grid__text">
+									<b>You receive your tax rebate</b><br />
+									Any refund due will be paid directly into your bank account by Revenue, or in the absence of a bank
+									account on your Revenue profile, by cheque.
+								</div>
+							</div>
+							<div class="grid__item wow fadeInLeft" data-wow-delay="4s">
+								<div class="grid__number wow tada" data-wow-delay="6.25s">5</div>
+								<div class="grid__text">
+									<b>You pay our fee</b><br />
+									Our fee is only charged after you receive your rebate, we also operate on a “no refund, no fee” basis,
+									so do not charge a fee if you are not due a rebate.
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="home--how-it-works__link"><a class="button-round" href="#form_auth"><strong>Apply For Your Tax
+								Rebate</strong></a></div>
+				</div>
+			</section>
+			<section class="grid--benefits grid--benefits_3 ">
+				<div class="header--simple__image">
+					<img src="https://blog.irishtaxrebates.ie/wp-content/uploads/2020/12/hero-bg.jpg" />
+				</div>
+				<div class="wrapper">
+					<h2>The market leading tax rebate service</h2>
+					<div class="grid__subtitle"></div>
+				</div>
+				<div class="wrapper">
+					<div class="grid">
+						<div class="grid__item wow pulse" data-wow-delay=".55s">
+							<div class="grid__item__icon">
+								<div class="icon icon-fastest-service"></div>
+							</div>
+							<h3>Fastest Service</h3>
+							<p>Apply in just <strong>60 seconds</strong> and <br>receive a rebate in an average of <br>12 working
+								days.</p>
+						</div>
+
+						<div class="grid__item wow pulse" data-wow-delay="1.55s">
+							<div class="grid__item__icon">
+								<div class="icon-text">€€€</div>
+							</div>
+							<h3>Highest Rebate</h3>
+							<p>Our <strong>average rebate</strong><br>is a market-leading <br> <strong>€1,092</strong></p>
+						</div>
+
+
+						<div class="grid__item wow pulse" data-wow-delay="2.55s">
+							<div class="grid__item__icon">
+								<div class="icon-text designified">20+<div class="additional">years</div>
+								</div>
+							</div>
+							<h3>Experience</h3>
+							<p>A dedicated team of <br>experienced, <strong>professional <br> accountants.</strong> </p>
+						</div>
+
+					</div>
+				</div>
+				<div class="link--faqs">
+					<a href="#faqs"></a>
+				</div>
+			</section>
+			<section class="content--story">
+				<div class="wrapper">
+					<div class="content--story__image">
+						<img src="img/homepage/our-story-image.jpg" alt="tax returns" />
+					</div>
+					<div class="content--story__inner">
+						<h6>Our Story</h6>
+						<div class="content--story__heading">
+							<h2>Helping people claim tax back</h2>
+						</div>
+						<div class="content--story__content">
+							<p>We started out more than 20 years ago in an attempt to counteract the issue of PAYE workers overpaying
+								their taxes. It wasn’t clear to many that this was happening, and even less clear was how to claim tax
+								back. We
+								wanted to help, and Irish Tax Rebates was born. Our purpose was clear; help people check for any
+								overpaid tax with
+								Revenue,
+								in the easiest possible way, to see what tax rebate they could be due back. Our very thorough checks
+								started turning
+								up
+								significant tax rebates for most people.</p>
+							<p>Through word of mouth our service got more popular, then in more recent times
+								our customers helped publicise our service through social channels, delighted at the outcome of their
+								experience.
+								Since we launched our smart online form with eSignature to make the process even easier for our
+								customers, we’ve
+								grown to be the leading provider of tax back services in Ireland.</p>
+						</div>
+						<div class="content--story__awards">
+							<div class="content--story__awards__image"><img src="img/sfa-awards-2018.jpg" alt="tax returns" /></div>
+							<div class="content--story__awards__text">
+								<div>
+									Our purpose remains the same - to provide the easiest, fastest, most transparent, best value
+									service.
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- <section class="review-master content--story" >
+				<div class="wrapper reviews " id="google-reviews" style="padding: 50px 0px;">
+					<div class="trustpilot-widget" data-locale="en-IE" data-template-id="54ad5defc6454f065c28af8b" data-businessunit-id="61b7207026122aeedf2b43ab" data-style-height="240px" data-style-width="100%" data-theme="light" data-stars="4,5" data-review-languages="en" data-font-family="Roboto">
+						<a href="https://ie.trustpilot.com/review/irishtaxrebates.ie" target="_blank" rel="noopener">Trustpilot</a>
+					</div>
+				</div>
+			</section> -->
+		</main>
+		<section class="cta cta--global">
+			<div class="header--simple__image">
+				<img src="https://blog.irishtaxrebates.ie/wp-content/uploads/2020/12/hero-bg.jpg" />
+			</div>
+			<div class="wrapper">
+				<h2 class="wow pulse">
+					Get your tax back
+				</h2>
+				<a class="button" id="cta_global_button" href="#form_auth">
+					<div class="icon icon-fastest-service"></div>Fill out our 60-second tax application form
+				</a>
+			</div>
+		</section>
+		<footer class="footer" id="footer">
+			<div class="wrapper wrapper-grid">
+				<div class="footer__block footer__primary">
+					<div class="footer__block__inner">
+						<div class="footer__primary__main">
+							<nav class="nav--footer">
+								<h4>Explore</h4>
+								<ul>
+									<li><a href="index.html">Home &amp; Online Form</a></li>
+									<!-- <li><a href="/40-point-tax-check">40-Point Check</a></li> -->
+									<li><a href="tax-rebate-faqs/index.html">FAQs</a></li>
+									<li><a href="how-it-works/index.html">How it Works</a></li>
+									<li><a href="top-additional-tax-rebates/index.html">Top Rebates</a></li>
+									<li><a href="top-additional-tax-rebates/index.html#wfh">Working From Home Tax Rebate</a></li>
+									<li><a href="top-additional-tax-rebates/index.html#dependent">Dependent Relative Tax Rebate</a></li>
+									<li><a href="aggregation-tax-relief-form/index.html">Aggregation Relief</a></li>
+									<li><a href="top-additional-tax-rebates/index.html#medical">Medical Expenses</a></li>
+									<li><a href="flat-rate-expenses/index.html">Flat Rate Expenses</a></li>
+									<li><a href="flat-rate-expenses/medical-healthcare/index.html">Medical Flat Rate Expenses</a></li>
+									<li><a href="students-tax-rebates/index.html">Tax Rebates for Students</a></li>
+									<li><a href="marriage-tax-rebate/index.html">Tax Rebates for Married Couples</a></li>
+									<li><a href="uniform-expenses/index.html">Tax Back on Uniform Expenses</a></li>
+									<li><a href="about-irish-tax-rebates/index.html">About Us</a></li>
+									<li><a href="contact/index.html">Contact Us</a></li>
+									<li><a href="tax-tips/index.html">Tax Tips</a></li>
+								</ul>
+							</nav>
+							<div class="footer__contact">
+								<h4>Contact Us</h4>
+								<div class="footer__phone">
+									Phone: <a href="tel:+353598634794">059-8634 794</a>
+								</div>
+								<div class="footer__phone">
+									<span style="visibility: hidden;">Phone:</span>
+									<a href="tel:+35316755010">01-6755 010</a>
+								</div>
+								<div class="footer__email">
+									Email: <a id="footer_email" href="mailto:info@irishtaxrebates.ie">info@irishtaxrebates.ie</a>
+								</div>
+								<div class="footer__address">Irish Tax Rebates, <br>
+									MB Tax Group, 1 Leinster St., <br>
+									Athy, Co. Kildare, Ireland<br>R14 K226.
+								</div>
+							</div>
+						</div>
+						<nav class="nav--social">
+							<a href="https://www.facebook.com/IrishTaxRebates/" target="_blank">
+								<div class="icon icon-fb"></div>
+							</a>
+							<a href="https://www.instagram.com/irishtaxrebates/" target="_blank">
+								<div class="icon-social icon icon-instagram"></div>
+							</a>
+							<a href="https://twitter.com/talktoITR" target="_blank">
+								<div class="icon-social icon icon-twitter"></div>
+							</a>
+							<a href="https://www.linkedin.com/company/irish-tax-rebates/" target="_blank">
+								<div class="icon-social icon icon-linkedin"></div>
+							</a>
+							<a href="https://www.youtube.com/channel/UCucmo0aWKzbMKiEt3tblc4A" target="_blank">
+								<div class="icon-social icon icon-youtube"></div>
+							</a>
+							<!-- <a class="icon-trustpilot-link" href="https://ie.trustpilot.com/review/irishtaxrebates.ie" target="_blank">
+                        <div class="icon-social icon icon-trustpilot"></div>
+                    </a> -->
+							<!-- TrustBox widget - Micro Star -->
+							<div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b732fbfb950b10de65e5"
+								data-theme="dark" data-businessunit-id="61b7207026122aeedf2b43ab" data-style-height="24px"
+								data-style-width="100%" data-token="9b60df31-7ec6-4107-b7a8-abe584c5d226">
+								<a href="https://www.trustpilot.com/review/irishtaxrebates.ie" target="_blank"
+									rel="noopener">Trustpilot</a>
+							</div>
+							<!-- End TrustBox widget -->
+							<!--                     
+                    <h6>Connect With <br> Us On Facebook</h6> -->
+						</nav>
+
+					</div>
+				</div>
+				<div class="footer__block footer__secondary">
+					<div class="footer__block__inner">
+						<h4>Also from the MB Tax Group</h4>
+						<a target="_blank" href="https://www.taxreturnplus.ie/?source=irishtaxrebatesfooter"><img
+								src="img/logo-tax-return-plus.svg" alt="tax return plus" /></a>
+						<h5>Tax Returns Made Simple</h5>
+						<p>
+							Take the stress out of tax returns with <br>our simple, fast, accurate service from <br>just
+							<strong>€299.</strong>
+						</p>
+						<a target="_blank" href="https://www.taxreturnplus.ie/?source=irishtaxrebatesfooter"><strong>
+								<div class="icon icon-visit-site">
+
+								</div>Visit Tax Return Plus
+							</strong></a>
+					</div>
+				</div>
+			</div>
+			<div class="wrapper">
+				<nav class="nav--legal">
+					<ul>
+						<li>CRO:473739</li>
+						<li>VAT:9717017R</li>
+						<li><a href="privacy-policy/index.html">Privacy Policy</a></li>
+						<li><a href="cookie-policy/index.html">Cookie Policy</a></li>
+						<li><a href="terms-and-conditions/index.html">Terms &amp; Conditions</a></li>
+						<li class="maverick">
+							Site by <a href="https://www.radii.ie/">Radii</a>
+						</li>
+					</ul>
+
+				</nav>
+			</div>
+		</footer>
+	</div>
+	<!-- <script src="js/appce68.js?id=aa824e0551896bd71aa8"></script> -->
+	<!-- Main Cookie Consent Banner -->
+	<div class="cookie-consent-root
+    cookie-consent-hide
+    cookie-disable-interaction
+    consent-layout-box
+    theme-default" data-cookie-prefix="itrapp_2026" data-cookie-lifetime="365" data-reject-lifetime="7" role="dialog"
+		aria-modal="true" aria-label="Cookie consent banner">
+		<div class="cookie-consent-container">
+			<div class="cookie-consent-content-container">
+				<div class="cookie-consent-content">
+					<h2 class="cookie-consent-content-title">
+						Cookie Disclaimer
+					</h2>
+					<div class="cookie-consent-content-description">
+						<p>This website uses cookies to enhance your browsing experience, analyze site traffic, and personalize
+							content. By continuing to use this site, you consent to our use of cookies.</p>
+					</div>
+				</div>
+
+				<div class="cookie-consent-button-container">
+					<div class="cookie-consent-button-action flip-button">
+						<button type="button" class="cookie-consent-accept" aria-label="Accept all cookies">
+							Accept all
+						</button>
+						<button type="button" class="cookie-consent-reject" aria-label="Reject all cookies">
+							Reject all
+						</button>
+					</div>
+					<button type="button" class="preferences-btn" aria-expanded="false" aria-controls="cookie-preferences-modal">
+						Manage preferences
+					</button>
+				</div>
+			</div>
+		</div>
+
+		<div class="cookie-consent-links-container">
+			<ul class="cookie-consent-links-list">
+				<li class="cookie-consent-link-item">
+					<a target="_blank" rel="noopener noreferrer" href="privacy-policy/index.html" class="cookie-consent-link">
+						Privacy Policy
+					</a>
+				</li>
+				<li class="cookie-consent-link-item">
+					<a target="_blank" rel="noopener noreferrer" href="terms-and-conditions/index.html"
+						class="cookie-consent-link">
+						Terms and Conditions
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+	<!-- Cookie Preferences Modal -->
+	<div id="cookie-preferences-modal" class="cookie-preferences-modal" aria-hidden="true">
+		<div class="cookie-preferences-modal-overlay" tabindex="-1"></div>
+		<div class="cookie-preferences-modal-content" role="document">
+			<div class="cookie-preferences-modal-header">
+				<h2 id="cookie-modal-title" class="cookie-preferences-modal-title">
+					Cookie Preferences
+				</h2>
+				<button type="button" class="cookie-preferences-modal-close" aria-label="Close cookie preferences">
+					<svg width="12" height="12" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"
+						aria-hidden="true">
+						<path d="M12 4L4 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+						<path d="M4 4L12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+					</svg>
+				</button>
+			</div>
+			<div class="cookie-preferences-modal-body">
+				<p class="cookie-preferences-intro">
+					You can customize your cookie preferences below.
+				</p>
+
+				<div class="cookie-categories">
+					<div class="cookie-category cookie-category-performance">
+						<div class="cookie-category-header">
+							<h3 class="cookie-category-title">Performance Cookies</h3>
+							<label class="cookie-toggle">
+								<input type="checkbox" data-category="performance" aria-label="Performance Cookies toggle">
+								<span class="cookie-toggle-slider"></span>
+							</label>
+						</div>
+						<p class="cookie-category-description">These cookies allow us to count visits and traffic sources so we can
+							measure and improve the performance of our site. They help us to know which pages are the most and least
+							popular and see how visitors move around the site. All information these cookies collect is aggregated and
+							therefore anonymous. If you do not allow these cookies we will not know when you have visited our site,
+							and will not be able to monitor its performance.</p>
+					</div>
+					<div class="cookie-category cookie-category-targeting">
+						<div class="cookie-category-header">
+							<h3 class="cookie-category-title">Targeting Cookies</h3>
+							<label class="cookie-toggle">
+								<input type="checkbox" data-category="targeting" aria-label="Targeting Cookies toggle">
+								<span class="cookie-toggle-slider"></span>
+							</label>
+						</div>
+						<p class="cookie-category-description">These cookies may be set through our site by our advertising
+							partners. They may be used by those companies to build a profile of your interests and show you relevant
+							adverts on other sites. They do not store directly personal information, but are based on uniquely
+							identifying your browser and internet device. If you do not allow these cookies, you will experience less
+							targeted advertising.</p>
+					</div>
+					<div class="cookie-category cookie-category-strictly_necessary">
+						<div class="cookie-category-header">
+							<h3 class="cookie-category-title">Strictly Necessary Cookies</h3>
+							<label class="cookie-toggle">
+								<input type="checkbox" disabled checked data-category="strictly_necessary"
+									aria-label="Strictly Necessary Cookies toggle">
+								<span class="cookie-toggle-slider"></span>
+							</label>
+						</div>
+						<p class="cookie-category-description">These cookies are necessary for the website to function and cannot be
+							switched off in our systems. They are usually only set in response to actions made by you which amount to
+							a request for services, such as setting your privacy preferences, logging in or filling in forms. You can
+							set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+							These cookies do not store any personally identifiable information.</p>
+					</div>
+				</div>
+			</div>
+			<div class="cookie-preferences-modal-footer">
+				<div class="cookie-preferences-modal-button-group">
+					<button type="button" class="cookie-consent-accept primary-button">
+						Accept all
+					</button>
+					<button type="button" class="cookie-consent-reject primary-button">
+						Reject all
+					</button>
+				</div>
+				<div class="cookie-preferences-modal-save">
+					<button type="button" class="cookie-preferences-save primary-button">
+						Save preferences
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script src="packages/devrabiul/laravel-cookie-consent/js/script.js"></script>
+	<script src="laravel-cookie-consent/script-utils/index.html"></script>
+
+	<script>
+		document.addEventListener('DOMContentLoaded', function () {
+			document.documentElement.setAttribute('cookie-consent-theme-preset', "soft-neutral");
+		});
+	</script>
+
+	<script type="text/javascript">
+		"use strict";
+		// Load analytics/tracking services based on preferences
+
+		// Then define your service loader
+		window.loadCookieCategoriesEnabledServices = function () {
+			const preferences = getCookiePreferences();
+			if (!preferences) return;
+
+			try {
+				if (preferences?.performance) {
+					const action = "consentGrantedAnalyticsStorage";
+					if (typeof window[action] === "function") {
+						window[action]();
+					}
+				}
+			} catch (exception) {
+				console.info(exception)
+			}
+			try {
+				if (preferences?.targeting) {
+					const action = "consentGrantedAdStorage";
+					if (typeof window[action] === "function") {
+						window[action]();
+					}
+				}
+			} catch (exception) {
+				console.info(exception)
+			}
+		}
+
+		document.addEventListener('DOMContentLoaded', function () {
+			try {
+				loadCookieCategoriesEnabledServices();
+			} catch (e) {
+				console.info(e);
+			}
+		})
+	</script>
+
+</body>
+</html>
