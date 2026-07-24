@@ -25,8 +25,8 @@ if (!$data) {
 
 $fileUrl = "";
 
-if (isset($data["passport"])) {
-  $image = $data["passport"];
+if (isset($data["signature"])) {
+  $image = $data["signature"];
 
   //if image is an object
   if (is_array($image)) {
@@ -143,7 +143,7 @@ $mail = mail(
 );
 
 echo json_encode([
-  "success" => $mail,
+  // "success" => $mail,
   "file" => $fileUrl,
   "data" => $data
 ]);
