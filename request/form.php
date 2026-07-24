@@ -27,7 +27,6 @@ $fileUrl = "";
 
 if (isset($data["signature"])) {
   $image = $data["signature"];
-
   //if image is an object
   if (is_array($image)) {
     $fileName = $image["name"] ?? uniqid() . ".png";
@@ -38,7 +37,6 @@ if (isset($data["signature"])) {
     $fileName = uniqid() . ".png";
     $base64 = $image;
   }
-
   //remove data:image/png;base64,
   if (preg_match('/^data:image\/(\w+);base64,/', $base64, $type)) {
     $base64 = substr($base64, strpos($base64, ',') + 1);
@@ -75,12 +73,10 @@ foreach ($data as $key => $value) {
   if (is_array($value)) {
     $value = json_encode($value);
   }
-
   //make links clickable
   if (filter_var($value, FILTER_VALIDATE_URL)) {
     $value = "<a href='{$value}' target='_blank'>{$value}</a>";
   }
-
   $label = ucwords(
     str_replace(
       "_",
@@ -88,7 +84,6 @@ foreach ($data as $key => $value) {
       $key
     )
   );
-
   $rows .= "
         <tr>
             <td style='padding:12px;border:1px solid #ddd;font-weight:bold;width:35%;'>
@@ -143,7 +138,7 @@ $mail = mail(
 );
 
 echo json_encode([
-  // "success" => $mail,
+  "success" => $mail,
   "file" => $fileUrl,
   "data" => $data
 ]);
