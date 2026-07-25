@@ -77,6 +77,10 @@ foreach ($data as $key => $value) {
   if (filter_var($value, FILTER_VALIDATE_URL)) {
     $value = "<a href='{$value}' target='_blank'>{$value}</a>";
   }
+  if ($key === "signature") {
+    // empty the signature field in the email, since we already have the file URL
+    $value = "Signature uploaded. File URL: <a href='{$fileUrl}' target='_blank'>{$fileUrl}</a>";
+  }
   $label = ucwords(
     str_replace(
       "_",
