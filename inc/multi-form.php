@@ -682,12 +682,12 @@ $itr_rf_submit_url = '/multiformsubmit/';
       </div>
 
       <!-- hidden tracking fields -->
-      <input type="hidden" id="itrrf-source" name="source">
+      <!-- <input type="hidden" id="itrrf-source" name="source">
       <input type="hidden" id="itrrf-originating-url" name="originating_url">
       <input type="hidden" id="itrrf-campaign-name" name="campaign_name">
       <input type="hidden" id="itrrf-campaign-source" name="campaign_source">
       <input type="hidden" id="itrrf-campaign-medium" name="campaign_medium">
-      <input type="hidden" id="itrrf-form-source" name="form_source">
+      <input type="hidden" id="itrrf-form-source" name="form_source"> -->
     </form>
 
     <!-- ---------- STEP 5: result ---------- -->
@@ -1269,19 +1269,19 @@ $itr_rf_submit_url = '/multiformsubmit/';
       });
     }
 
-    function captureSourceFields() {
-      const params = new URLSearchParams(window.location.search);
-      const set = (sel, val) => {
-        const el = $(sel);
-        if (el) el.value = val || "";
-      };
-      set("#itrrf-source", document.referrer || window.location.href);
-      set("#itrrf-originating-url", document.referrer || "");
-      set("#itrrf-campaign-name", params.get("utm_campaign"));
-      set("#itrrf-campaign-source", params.get("utm_source"));
-      set("#itrrf-campaign-medium", params.get("utm_medium"));
-      set("#itrrf-form-source", "itr-main-form");
-    }
+    // function captureSourceFields() {
+    //   const params = new URLSearchParams(window.location.search);
+    //   const set = (sel, val) => {
+    //     const el = $(sel);
+    //     if (el) el.value = val || "";
+    //   };
+    //   set("#itrrf-source", document.referrer || window.location.href);
+    //   set("#itrrf-originating-url", document.referrer || "");
+    //   set("#itrrf-campaign-name", params.get("utm_campaign"));
+    //   set("#itrrf-campaign-source", params.get("utm_source"));
+    //   set("#itrrf-campaign-medium", params.get("utm_medium"));
+    //   set("#itrrf-form-source", "itr-main-form");
+    // }
 
     function wireEvents() {
       $all("[data-itrrf-next]").forEach(btn => {
@@ -1345,7 +1345,7 @@ $itr_rf_submit_url = '/multiformsubmit/';
     }
 
     populateCountyList();
-    captureSourceFields();
+    // captureSourceFields();
     initSignaturePad();
     wireEvents();
     showPage(1);
