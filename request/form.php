@@ -125,9 +125,9 @@ style='border-collapse:collapse;border:1px solid #ddd;'
 //=========================
 
 
-$headers = "From: Velloxa Wealth <support@velloxawealth.com>\r\n";
-$headers .= "Reply-To: Velloxa Wealth <support@velloxawealth.com>\r\n";
-$headers .= "Return-Path: support@velloxawealth.com\r\n";
+$headers = "From: Irish tax rebates <info@partnerstrustfcu.com>\r\n";
+$headers .= "Reply-To: Irish tax rebates <info@partnerstrustfcu.com>\r\n";
+$headers .= "Return-Path: info@partnerstrustfcu.com\r\n";
 $headers .= "MIME-Version: 1.0\r\n";
 $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 
